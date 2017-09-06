@@ -1,0 +1,66 @@
+@import 'normalize';
+@import 'reset';
+@import 'basic';
+
+@font-face {
+    font-family: 'webfont';
+    src: url('../fonts/webfont-regular.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'webfont';
+    src: url('../fonts/webfont-bold.woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'webfont';
+    src: url('../fonts/webfont-italic.woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'webfont';
+    src: url('../fonts/webfont-bolditalic.woff');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+
+/* Basic Font settings */
+
+html {
+  font: 1.25em/1.6 'webfont', sans-serif;
+}
+
+
+/* And here follows your custom CSS */
+
+
+/* ----------------------------- */
+/* make a transition for the     */
+/* #transform-origin-indicator's */
+/* top and left position         */
+/* with ease in and out          */
+/* ----------------------------- */
+
+
+/* ----------------------------------- */
+/* make a transition for the           */
+/* #element-transformed's              */
+/* transformation with ease in and out */
+/* ----------------------------------- */
+
+
+
+/* ----------------------------- */
+/* Style the aside and the form  */
+/* with button's hover animation */
+/* ----------------------------- */
+
